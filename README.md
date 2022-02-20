@@ -1,4 +1,4 @@
-# Hi! My name is Diego 👋
+# Hi! My name is Diego <img src"https://cdn-icons-png.flaticon.com/512/1404/1404414.png" width="10px">👋
 
 <!--
 **DiegoGarciaPadilla/DiegoGarciaPadilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
