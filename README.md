@@ -1,5 +1,5 @@
-# Hi! I'm Diego 👋🏼
-### He/Him 😉
+<h1 align="center">Hi! I'm Diego 👋🏼</h1>
+<h3 align="center">He/Him 😉<h3>
 
 
 <!--
