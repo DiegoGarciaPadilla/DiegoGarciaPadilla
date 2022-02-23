@@ -1,3 +1,13 @@
-<h1 align="center">Diego Garcia Padilla 👋🏼</h1>
-<h3 align="center">He/Him 😉 | Student 🧑🏼‍🎓<h3>
+# Hi! I'm Diego 👋🏼
+
+I'm a student at the Universidad Autónoma de Querétaro
+
+```python
+aboutMe = {
+  "name": "Diego Garcia Padilla",
+  "pronouns": "He/him"
+  "age": "18",
+  "nationality": "mexican"
+}
+```
   
