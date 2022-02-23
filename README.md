@@ -1,5 +1,5 @@
 # Hi! I'm Diego 👋🏼
-## he/him
+### He/Him 😉
 
 
 <!--
