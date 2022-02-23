@@ -1,4 +1,4 @@
-# Hi! My name is Diego 👋🏼
+<h1>Hi! My name is Diego 👋🏼</h1>
 
 <!--
 **DiegoGarciaPadilla/DiegoGarciaPadilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
