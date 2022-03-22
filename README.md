@@ -6,10 +6,10 @@ I'm a student at the Universidad Autónoma de Querétaro
 
 ```javascript
 var aboutMe = {
-  "name": "Diego Garcia Padilla",
-  "pronouns": "He/him"
-  "age": "18",
-  "nationality": "mexican"
+  name: "Diego Garcia Padilla",
+  pronouns: "He/him",
+  age: "18",
+  nationality: "mexican"
 }
 ```
   
