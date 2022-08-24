@@ -6,7 +6,7 @@
 var aboutMe = {
   name: "Diego Garcia Padilla",
   pronouns: "He/him",
-  age: "18",
+  age: "19",
   nationality: "mexican"
 }
 ```
