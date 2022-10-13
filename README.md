@@ -2,12 +2,6 @@
 
 _I'm a BS in Computer Science student at Tecnológico de Monterrey!_
 
-## My  Socials:
-
-![Twitter Follow](https://img.shields.io/twitter/follow/dgarcia370?style=social)
-
-[![Linkedin: DiegoGarciaPadilla](https://img.shields.io/badge/-DiegoGarciaPadilla-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/DiegoGarciaPadilla/)](https://www.linkedin.com/in/DiegoGarciaPadilla/)
-
 ## About me:
 
 ```python
