@@ -6,7 +6,7 @@ _I'm a BS in Computer Science student at Tecnológico de Monterrey!_
 
 ```javascript
 var aboutMe = {
-  name: Diego Garcia Padilla',
+  name: 'Diego Garcia Padilla',
   pronouns: 'He/him',
   age: 19,
   nationality: 'mexican',
