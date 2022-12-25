@@ -11,8 +11,8 @@ var aboutMe = {
   age: 19,
   nationality: 'mexican',
   tech: {
-    coding: ['Python', 'Javascript', 'Java', 'C++'],
-    technologies: ['HTML', 'CSS', 'Vue.Js', 'MySQL', 'Microsoft Azure'],
+    coding: ['Python', 'Javascript', 'Java', 'C++', 'PHP'],
+    technologies: ['HTML', 'CSS', 'Spring' 'Vue.Js', 'SQL', 'Microsoft Azure', 'Android'],
     certifications: ['Microsoft Certified: Azure Fundamentals'] 
   }
 }
