@@ -8,12 +8,12 @@ _I'm a BS in Computer Science student at Tecnológico de Monterrey!_
 var aboutMe = {
   name: 'Diego Garcia Padilla',
   pronouns: 'He/him',
-  age: 19,
+  age: 20,
   nationality: 'mexican',
   tech: {
-    coding: ['Python', 'Javascript', 'Java', 'C++', 'PHP'],
-    technologies: ['HTML', 'CSS', 'Spring' 'Vue.Js', 'SQL', 'Microsoft Azure', 'Android'],
-    certifications: ['Microsoft Certified: Azure Fundamentals'] 
+    coding: ['Python', 'Javascript', 'Java', 'C/C++', 'R'],
+    technologies: ['HTML', 'CSS', 'Spring', 'SQL', 'Microsoft Azure', 'Android'],
+    certifications: ['Microsoft Azure Fundamentals'] 
   }
 }
 ```
