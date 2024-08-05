@@ -8,7 +8,7 @@ _I'm a BS in Computer Science student at Tecnológico de Monterrey!_
 var aboutMe = {
   name: 'Diego Garcia Padilla',
   pronouns: 'He/him',
-  age: 20,
+  age: 21,
   nationality: 'mexican',
   tech: {
     coding: ['Python', 'Javascript', 'Java', 'C/C++', 'C#'],
