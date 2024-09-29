@@ -11,15 +11,9 @@ var aboutMe = {
   age: 21,
   nationality: 'mexican',
   tech: {
-    coding: ['Python', 'Javascript', 'Java', 'C/C++', 'C#'],
-    technologies: ['HTML', 'CSS', 'Tailwind', 'Spring', 'Node.js', 'Express.js', 'React', 'SQL', 'Microsoft Azure', 'Android'],
+    languages: ['Javascript', 'Java', 'Swift', 'Python', 'C/C++', 'C#', 'HTML', 'CSS, 'SQL],
+    technologies: ['Spring', 'Node.js', 'Express.js', 'React.js','Tailwind', 'SQL', 'Azure', 'iOS'],
     certifications: ['Microsoft Azure Fundamentals'] 
   }
 }
 ```
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diegogarciapadilla&show_icons=true&locale=en&layout=compact" alt="diegogarciapadilla" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diegogarciapadilla&show_icons=true&locale=en" alt="diegogarciapadilla" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diegogarciapadilla&" alt="diegogarciapadilla" /></p>
